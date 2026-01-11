@@ -26,6 +26,8 @@ A Java-based clinic operations system that simulates how a medical practice mana
 ---
 
 ## How to Run
+If you downloaded this from GitHub as a ZIP, open the inner project folder (the one containing src/) before running the commands.
+
 From the project root (copy and paste into terminal):
 
 ```bash
